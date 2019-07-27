@@ -1,6 +1,8 @@
 # Dark-FB v1.7
 <br>
-Username : asulokentod<br>
+Free license
+<br>
+Username : parkergans<br>
 Password : rezatampans<br><br>
 pkg install python2<br>
 pkg install git<br>
